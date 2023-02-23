@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/color_card_app/static/css/main.a793da12.css",
+    "main.js": "/color_card_app/static/js/main.97c4b21b.js",
+    "static/js/787.61e29142.chunk.js": "/color_card_app/static/js/787.61e29142.chunk.js",
+    "index.html": "/color_card_app/index.html",
+    "main.a793da12.css.map": "/color_card_app/static/css/main.a793da12.css.map",
+    "main.97c4b21b.js.map": "/color_card_app/static/js/main.97c4b21b.js.map",
+    "787.61e29142.chunk.js.map": "/color_card_app/static/js/787.61e29142.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a793da12.css",
+    "static/js/main.97c4b21b.js"
+  ]
+}
